@@ -10,7 +10,7 @@ The purpose of this repository serves as supplementary information for the Edmon
 
 *Related links*:
 - Lichen species mapping story map: [Mapping Lichen Species in Edmonton](https://storymaps.arcgis.com/stories/5a8397fbcd5e41799ae82d562b8648d3)
-- Getting to know our biomonitor neighbours: article link to be added soon.
+- Article: [Getting To Know Our Biomonitor Neighbours: Urban Lichens And Allied Fungi Of Edmonton, Alberta, Canada](https://datadryad.org/stash/dataset/doi:10.5061/dryad.sqv9s4n6d).
 
 
 ## 2. Getting Started
